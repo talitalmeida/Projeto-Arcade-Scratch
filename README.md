@@ -1,3 +1,9 @@
 ## Projeto-Arcade-Scratch
+<h1 align = "center">
 
-<iframe src="https://scratch.mit.edu/projects/643471070/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</h1>
+
+### 🧩 Estrutura
+ > Elementos <br>
+ > Jogos <br>
+ > Regras <br>
