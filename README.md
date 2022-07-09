@@ -1,6 +1,6 @@
 ## Projeto-Arcade-Scratch
 <div align = "center">
- <img src = "https://user-images.githubusercontent.com/86754155/173609309-73334894-234b-46ae-9264-57bc5d876612.png"/>
+ <img src = "https://user-images.githubusercontent.com/86754155/178083649-9c14163a-4a5b-47d4-9174-1329f987f1dc.png"/>
 </div>
 
 ### 🧩 Estrutura
