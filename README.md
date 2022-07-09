@@ -17,12 +17,12 @@
  >  [Área de Desenvolvimento](https://scratch.mit.edu/projects/643471070/editor/): <br>
  >  - Código em blocos : Localizado no centro da imagem está o código, há códigos específicos em alguns elementos e personagens, basta clicar naquele que deseja ver;<br>
  > - Personagens e elementos : Localizado no canto inferior direito estão todos os participantes do jogo, aqueles que participam do "front-end";<br>
- > - Saída de tela : Localizado no canto superior direito está o protótipo do jogo/projeto;<br><br><br>
+ > - Saída de tela : Localizado no canto superior direito está o protótipo do jogo/projeto;<br>
  
  > **Jogos e Regras:**<br>
  > - Pac-Man: Pressione as setas do teclado para direcionar o pac-man conforme o lugar no qual ele se encontra;<br>
  > - Tetris: Utilize as setas direita e esquerda para movimentar a peça na direção horizontal. A seta de cima para selecionar a posição em que a peça cairá. A seta de baixo para acelerar a queda. E, por fim, a tecla "Espaço" para fazer com que a peça caia instantaneamente;<br>
- > - Galaxian: Utilize as setas direita e esquerda para movimentar a nave na direção horizontal. Pressione a tecla "Espaço" para atirar nos invasores.<br><br>
+ > - Galaxian: Utilize as setas direita e esquerda para movimentar a nave na direção horizontal. Pressione a tecla "Espaço" para atirar nos invasores.<br>
 
 ------------------------
 
